@@ -1,3 +1,3 @@
-# USR Lab Website
+# Jingke Xu's Personal Website
 
-This is Uppsala Social Robotics Group's Website.
+Jingke Xu's Personal Website
