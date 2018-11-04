@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Uppsala Social Robotics Lab
+title:            Jingke Xu
 locale:           en_US
-url:              https://usr-lab.github.io/
+url:              https://jingkexuartist.github.io/
 urlcolor: blue
 
 # Jekyll configuration
@@ -27,13 +27,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Uppsala Social Robotics Lab
+  name: Jingkexu's Sculpture Room
   #avatar: 
-  bio: "Uppsala Social Robotics Website"
-  email: #ginevra.castellano@it.uu.se
+  bio: "Color My Life With The Chaos of Trouble."
+  email: jingkexuartist@gmail.com
   disqus-shortname:
-  twitter: #alexyuangao
-  facebook: #yaseen.gao.9406
+  twitter: #
+  facebook: https://www.facebook.com/cassjingke.xu
   google:
     plus: #username
     analytics:
